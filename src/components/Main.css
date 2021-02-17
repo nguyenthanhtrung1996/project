@@ -1,0 +1,14 @@
+.Products {
+    font-weight: 800;
+    font-size: 2rem;
+    margin-top: 2rem;
+  }
+  .search {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+  }
+  .search input {
+    margin-right: 5px;
+  }
+  
